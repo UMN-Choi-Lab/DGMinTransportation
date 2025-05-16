@@ -7,6 +7,8 @@ All code is provided in Python Jupyter Notebook format and can be executed in Go
 ### Citations
 If you use this code for your research, please cite our paper.
 
+[https://www.sciencedirect.com/science/article/pii/S0968090X25001494?dgcid=author](https://www.sciencedirect.com/science/article/pii/S0968090X25001494?dgcid=author)
+
 ```bibtex
 @article{choi2025DGMTR,
   title = {A gentle introduction and tutorial on Deep Generative Models in transportation research},
