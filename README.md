@@ -8,11 +8,16 @@ All code is provided in Python Jupyter Notebook format and can be executed in Go
 If you use this code for your research, please cite our paper.
 
 ```bibtex
-@article{choi2024DGMTR,
-  title={A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research},
+@article{choi2025DGMTR,
+  title = {A gentle introduction and tutorial on Deep Generative Models in transportation research},
   author={Choi, Seongjin and Jin, Zhixiong and Ham, Seungwoo and Kim, Jiwon and Sun, Lijun},
-  journal={arXiv preprint arXiv:2410.07066},
-  year={2024}
+  journal = {Transportation Research Part C: Emerging Technologies},
+  volume = {176},
+  pages = {105145},
+  year = {2025},
+  issn = {0968-090X},
+  doi = {https://doi.org/10.1016/j.trc.2025.105145},
+  url = {https://www.sciencedirect.com/science/article/pii/S0968090X25001494},
 }
 ```
 
