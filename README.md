@@ -15,7 +15,6 @@ If you use this code for your research, please cite our paper.
   volume = {176},
   pages = {105145},
   year = {2025},
-  issn = {0968-090X},
   doi = {https://doi.org/10.1016/j.trc.2025.105145},
   url = {https://www.sciencedirect.com/science/article/pii/S0968090X25001494},
 }
